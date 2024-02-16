@@ -1,0 +1,151 @@
+us_state,state,year,premium
+MI,Michigan,2021,5740
+RI,Rhode Island,2021,1375
+NV,Nevada,2021,1033
+FL,Florida,2021,2361
+NJ,New Jersey,2021,812
+DE,Delaware,2021,1200
+CT,Connecticut,2021,1165
+OR,Oregon,2021,1050
+NY,New York,2021,1373
+MD,Maryland,2021,1081
+KY,Kentucky,2021,1549
+LA,Louisiana,2021,1128
+UT,Utah,2021,909
+AZ,Arizona,2021,1234
+MA,Massachusetts,2021,721
+IL,Illinois,2021,854
+SC,South Carolina,2021,939
+CO,Colorado,2021,865
+HI,Hawaii,2021,644
+MN,Minnesota,2021,1043
+MO,Missouri,2021,690
+NH,New Hampshire,2021,745
+WA,Washington,2021,569
+GA,Georgia,2021,683
+CA,California,2021,614
+VA,Virginia,2021,618
+OK,Oklahoma,2021,611
+AL,Alabama,2021,669
+WV,West Virginia,2021,627
+TX,Texas,2021,926
+NC,North Carolina,2021,445
+MS,Mississippi,2021,734
+NM,New Mexico,2021,570
+AR,Arkansas,2021,554
+KS,Kansas,2021,583
+OH,Ohio,2021,528
+AK,Alaska,2021,491
+NE,Nebraska,2021,487
+IN,Indiana,2021,488
+PA,Pennsylvania,2021,587
+ME,Maine,2021,445
+TN,Tennessee,2021,509
+MT,Montana,2021,466
+WI,Wisconsin,2021,515
+ND,North Dakota,2021,512
+IA,Iowa,2021,408
+ID,Idaho,2021,559
+VT,Vermont,2021,535
+WY,Wyoming,2021,410
+SD,South Dakota,2021,424
+MI,Michigan,2022,4386
+RI,Rhode Island,2022,1197
+NV,Nevada,2022,1138
+FL,Florida,2022,2072
+NJ,New Jersey,2022,979
+DE,Delaware,2022,1183
+CT,Connecticut,2022,1041
+OR,Oregon,2022,996
+NY,New York,2022,1085
+MD,Maryland,2022,1044
+KY,Kentucky,2022,1027
+LA,Louisiana,2022,1002
+UT,Utah,2022,793
+AZ,Arizona,2022,902
+MA,Massachusetts,2022,784
+IL,Illinois,2022,717
+SC,South Carolina,2022,752
+CO,Colorado,2022,791
+HI,Hawaii,2022,637
+MN,Minnesota,2022,721
+MO,Missouri,2022,648
+NH,New Hampshire,2022,598
+WA,Washington,2022,593
+GA,Georgia,2022,727
+CA,California,2022,613
+VA,Virginia,2022,555
+OK,Oklahoma,2022,584
+AL,Alabama,2022,641
+WV,West Virginia,2022,650
+TX,Texas,2022,666
+NC,North Carolina,2022,492
+MS,Mississippi,2022,657
+NM,New Mexico,2022,550
+AR,Arkansas,2022,556
+KS,Kansas,2022,549
+OH,Ohio,2022,482
+AK,Alaska,2022,492
+NE,Nebraska,2022,552
+IN,Indiana,2022,489
+PA,Pennsylvania,2022,497
+ME,Maine,2022,452
+TN,Tennessee,2022,514
+MT,Montana,2022,502
+WI,Wisconsin,2022,396
+ND,North Dakota,2022,422
+IA,Iowa,2022,382
+ID,Idaho,2022,428
+VT,Vermont,2022,474
+WY,Wyoming,2022,422
+SD,South Dakota,2022,387
+MI,Michigan,2023,2352
+RI,Rhode Island,2023,1200
+NV,Nevada,2023,1164
+FL,Florida,2023,1092
+NJ,New Jersey,2023,1032
+DE,Delaware,2023,1008
+CT,Connecticut,2023,960
+OR,Oregon,2023,948
+NY,New York,2023,924
+MD,Maryland,2023,900
+KY,Kentucky,2023,876
+LA,Louisiana,2023,876
+UT,Utah,2023,792
+AZ,Arizona,2023,768
+MA,Massachusetts,2023,732
+IL,Illinois,2023,720
+SC,South Carolina,2023,720
+CO,Colorado,2023,720
+HI,Hawaii,2023,684
+MN,Minnesota,2023,684
+MO,Missouri,2023,672
+NH,New Hampshire,2023,648
+WA,Washington,2023,636
+GA,Georgia,2023,624
+CA,California,2023,600
+VA,Virginia,2023,600
+OK,Oklahoma,2023,600
+AL,Alabama,2023,600
+WV,West Virginia,2023,600
+TX,Texas,2023,576
+NC,North Carolina,2023,552
+MS,Mississippi,2023,540
+NM,New Mexico,2023,540
+AR,Arkansas,2023,540
+KS,Kansas,2023,492
+OH,Ohio,2023,492
+AK,Alaska,2023,492
+NE,Nebraska,2023,480
+IN,Indiana,2023,480
+PA,Pennsylvania,2023,480
+ME,Maine,2023,468
+TN,Tennessee,2023,444
+MT,Montana,2023,444
+WI,Wisconsin,2023,432
+ND,North Dakota,2023,408
+IA,Iowa,2023,408
+ID,Idaho,2023,408
+VT,Vermont,2023,384
+WY,Wyoming,2023,372
+SD,South Dakota,2023,336
